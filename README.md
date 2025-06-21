@@ -1,3 +1,3 @@
 # oficina_mecaninca
 
-<img src="./oficina_mecaninca.png">
+<img src="./oficina_mecanica.png">
